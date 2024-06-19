@@ -12,16 +12,12 @@ I'm a 21-year-old developer based in Nepal, and I'm passionate about crafting di
  
 **Version Control:** `Git` `Bitbucket`
 
-**Backend Development:**  `Firebase` 
+**Backend Development:**  `Firebase` `Supabase` `MongoDB`
 
 **Testing:**  `Postman`
 
 **Others:**  `Jira`
  
-## ✨ Fun Facts 
-
-- 
--
 
 ## 📫 Contact
 
