@@ -1,10 +1,9 @@
-### Hey, I'm Suman 👋🏽  
+### Hey there! 👋🏽  
 
-I'm a 21-year-old developer based in Nepal, and I'm passionate about crafting digital experiences. 
+I'm Suman
+I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
-- Check out my [website](https://suman-pokhrel.netlify.app/) to learn more about me.
-- Explore my [blog](--------------------------------------) where I share insights and learnings.
-
+Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories)
  
 ## 📦 Toolbox
 
@@ -18,8 +17,4 @@ I'm a 21-year-old developer based in Nepal, and I'm passionate about crafting di
 
 **Others:**  `Jira`
  
-
-## 📫 Contact
-
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/suman-pokhrel-083740246/). 
  
