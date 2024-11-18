@@ -1,20 +1,22 @@
 ### Hey there! 👋🏽  
 
-I'm Suman
-I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
+I'm Suman, a Flutter developer passionate about crafting beautiful and efficient cross-platform mobile applications. With a strong foundation in design and development, I focus on building scalable and user-friendly apps that offer seamless experiences.
 
-Outside of work, I'm interested in furthering my knowledge in the tech world. I also build many side projects (most of them are in private repositories)
+I constantly explore new technologies and frameworks to sharpen my skills and deliver top-notch solutions. When I'm not coding, I'm diving into exciting side projects or researching innovations in app development.
+
  
 ## 📦 Toolbox
 
-**Frontend Development:** `Flutter`  `React` `Tailwind` `Material-UI` 
- 
-**Version Control:** `Git` `Bitbucket`
+**Frontend Development:** `Flutter (Widgets, Riverpod, Bloc, Provider)`  `Dart` `Material Design` `Custom Animations` 
 
-**Backend Development:**  `Firebase` `Supabase` `MongoDB`
+**Backend Integration:**  `Firebase` `Supabase` `RESTful APIs`
 
-**Testing:**  `Postman`
+**Version Control:** `Git` `GitHub`
 
-**Others:**  `Jira`
+**Testing:** `Flutter Testing Framework` `Postman`
+
+**State Management:** `Riverpod` `Provider`
+
+**Others:**  `Figma` `Jira`
  
  
